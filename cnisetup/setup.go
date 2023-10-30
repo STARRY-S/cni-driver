@@ -8,9 +8,9 @@ import (
 	"os"
 	"path/filepath"
 
-	log "github.com/Sirupsen/logrus"
 	"github.com/rancher/cni-driver/utils"
 	"github.com/rancher/go-rancher-metadata/metadata"
+	log "github.com/sirupsen/logrus"
 )
 
 const (

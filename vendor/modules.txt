@@ -1,0 +1,23 @@
+# github.com/cpuguy83/go-md2man/v2 v2.0.2
+## explicit; go 1.11
+github.com/cpuguy83/go-md2man/v2/md2man
+# github.com/konsorten/go-windows-terminal-sequences v1.0.1
+## explicit
+github.com/konsorten/go-windows-terminal-sequences
+# github.com/rancher/go-rancher-metadata v0.0.0-20200311180630-7f4c936a06ac
+## explicit; go 1.13
+github.com/rancher/go-rancher-metadata/metadata
+# github.com/russross/blackfriday/v2 v2.1.0
+## explicit
+github.com/russross/blackfriday/v2
+# github.com/sirupsen/logrus v1.4.2
+## explicit
+github.com/sirupsen/logrus
+# github.com/urfave/cli v1.22.14
+## explicit; go 1.11
+github.com/urfave/cli
+# golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8
+## explicit; go 1.17
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+# github.com/Sirupsen/logrus => github.com/sirupsen/logrus v1.9.3
